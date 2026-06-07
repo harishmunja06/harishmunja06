@@ -1,90 +1,136 @@
 <h1 align="center">Hi 👋, I'm Harish Munja</h1>
-<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | Problem Solver</h3>
+
+<h3 align="center">
+AI & ML Engineer | Full-Stack Developer | Building Intelligent Applications
+</h3>
 
 <p align="center">
-  Passionate about building scalable web applications and leveraging AI/ML to solve real-world problems.
+Passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Full-Stack Development.
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Computer Science Student
+🎓 B.Tech Computer Science (AI & ML) Student
 
-💻 Building Full-Stack Applications using the MERN Stack
+🤖 Developing AI-powered solutions using Machine Learning, Deep Learning, LLMs, and Knowledge Graphs
 
-🤖 Exploring Machine Learning, Deep Learning, and Computer Vision
+💻 Building scalable Full-Stack applications with the MERN Stack
 
-🌱 Currently learning System Design and Cloud Technologies
+🔬 Interested in Healthcare AI, Computer Vision, Recommendation Systems, and Generative AI
 
-🚀 Passionate about creating impactful software solutions
+🌱 Currently learning:
+- System Design
+- Cloud Computing (AWS & GCP)
+- Advanced Deep Learning
+- Large Language Models (LLMs)
 
-📫 Reach me at: **your-email@example.com**
+📫 Reach me at: **harishmunja06@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?logo=python)
+### Programming Languages
+<p>
+Python • JavaScript • Java • C • SQL
+</p>
 
-### Frontend
-![React](https://img.shields.io/badge/React-000?logo=react)
-![HTML5](https://img.shields.io/badge/HTML5-000?logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss)
+### Full Stack Development
+<p>
+React.js • Node.js • Express.js • MongoDB • REST APIs • Bootstrap
+</p>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-000?logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000?logo=express)
+### AI / Machine Learning
+<p>
+Machine Learning • Deep Learning • CNNs • LLMs • Knowledge Graphs • Graph Attention Networks (GAT)
+</p>
 
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-000?logo=mongodb)
+### Frameworks & Libraries
+<p>
+TensorFlow • PyTorch • Keras • Scikit-Learn • OpenCV
+</p>
 
-### Tools
-![Git](https://img.shields.io/badge/Git-000?logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-000?logo=visualstudiocode)
+### Tools & Platforms
+<p>
+Git • GitHub • AWS • GCP • Jupyter Notebook • Google Colab • VS Code
+</p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-🔹 **MERN Forum Platform**  
-A full-stack discussion platform with authentication, posts, comments, and responsive UI.
+### 🏥 Common Sense Enhanced Healthcare Recommendation System
+- Built using LLMs, Knowledge Graphs, and Graph Attention Networks
+- Predicts diseases from symptoms
+- Generates personalized healthcare recommendations
+- Developed using Python and PyTorch
 
-🔹 **Fraud Detection for Bank Payments**  
-Machine Learning model for detecting fraudulent banking transactions.
+### 💬 MERN Discussion Board Platform
+- Authentication & Authorization
+- Thread Creation & Discussions
+- Comments & Replies
+- REST APIs with Node.js & Express.js
+- MongoDB Database Integration
 
-🔹 **IoT-Based Dam Gate Monitoring System**  
-Smart water-level monitoring and automated dam gate control system.
+### 💳 Fraud Detection on Bank Payments
+- Random Forest
+- Logistic Regression
+- KNN
+- Class Imbalance Handling
+- Precision, Recall & F1 Score Evaluation
 
-🔹 **Portfolio Website**  
-Personal portfolio showcasing projects, skills, and achievements.
+---
+
+## 💼 Experience
+
+### Forum / Discussion Board Intern
+**Shripadha Group** | May 2025 – Jul 2025
+
+- Developed a full-stack Discussion Board application using MERN Stack
+- Built REST APIs and authentication modules
+- Implemented discussion threads, comments, and replies
+- Enhanced UI responsiveness and user experience
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harishmunja06&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=harishmunja06&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishmunja06&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harishmunja06&theme=tokyonight" />
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishmunja06&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Certifications
+
+✔ Forum & Discussion Board Development Internship
+
+✔ Python Programming Virtual Internship
+
+✔ Cybersecurity Essentials – Cisco Networking Academy
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
-  <a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
-  <a href="YOUR_GITHUB_URL">GitHub</a>
+<p align="center">
+<a href="https://linkedin.com/in/harishmunja06">LinkedIn</a> •
+<a href="https://github.com/harishmunja06">GitHub</a> •
+<a href="YOUR_PORTFOLIO_LINK">Portfolio</a>
 </p>
 
 ---
 
-⭐ *Always learning, building, and improving.*
+### 💡 Quote
+
+> "Building intelligent systems that solve real-world problems through AI and software engineering."
